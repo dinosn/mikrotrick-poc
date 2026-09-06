@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+build/
+
+# Generated lab credentials and runtime artifacts
+victim_rsa
+victim.pub
+*.img
+*.img.zip
+*.qcow2
+*.log
+*.pid
+*.ppm
+*.png
+*.sock
